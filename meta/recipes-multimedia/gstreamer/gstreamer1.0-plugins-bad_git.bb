@@ -9,7 +9,7 @@ LIC_FILES_CHKSUM = "file://COPYING;md5=73a5855a8119deb017f5f13cf327095d \
 
 S = "${WORKDIR}/git"
 
-SRCREV = "48a1f2792316d01c4ea4c6baa27188ffae73c543"
+SRCREV = "8184b7e5289bc50b37196fd9c9c8a379c865b6b6"
 
 PACKAGECONFIG[bluez] = "--enable-bluez,--disable-bluez,bluez4"
 PACKAGECONFIG[sbc] = "--enable-sbc,--disable-sbc,sbc"

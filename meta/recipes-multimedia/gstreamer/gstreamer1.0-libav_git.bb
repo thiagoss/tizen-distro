@@ -14,7 +14,7 @@ LIC_FILES_CHKSUM = "file://COPYING;md5=b234ee4d69f5fce4486a80fdaf4a4263 \
 SRC_URI = "git://anongit.freedesktop.org/gstreamer/gst-libav;branch=master"
 S = "${WORKDIR}/git"
 
-SRCREV = "127202d6f65584891dabf92be031f0d170b0e7f1"
+SRCREV = "173718d146d5210c47c2775d80daa893afb2f5eb"
 
 LIBAV_EXTRA_CONFIGURE_COMMON_ARG = "--target-os=linux \
   --cc='${CC}' --as='${CC}' --ld='${CC}' --nm='${NM}' --ar='${AR}' \

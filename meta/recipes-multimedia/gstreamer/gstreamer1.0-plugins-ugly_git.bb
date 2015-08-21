@@ -7,7 +7,7 @@ LIC_FILES_CHKSUM = "file://COPYING;md5=a6f89e2100d9b6cdffcea4f398e37343 \
 
 S = "${WORKDIR}/git"
 
-SRCREV = "c12e5d1ad4c5279b2ec5c7d1aec88fea7e5f4f6a"
+SRCREV = "eeb8698df6f265debc5fd6da12ed016872080b13"
 
 do_configure() {
 	${S}/autogen.sh --noconfigure
